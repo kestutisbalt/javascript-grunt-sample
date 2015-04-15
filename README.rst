@@ -3,7 +3,7 @@ About
 =====
 
 This is a sample how to setup JavaScript project with
-`Grunt <http://gruntjs.com>` task runner.
+`Grunt <http://gruntjs.com>`_ task runner.
 
 
 Environment setup
